@@ -1,0 +1,51 @@
+Prompt,Answer,Pertubated_Prompt,Category,Errors
+What is the capital of France?,Paris,Whαt is thе cαpital of France?,GK,Unicode
+"Who wrote ""Romeo and Juliet""?",Shakespeare,Who wrotе 🎭Romeo and Juliеt,GK,"Unicode, Emoji"
+What planet is known as the Red Planet?,Mars,WhaT planet is known as thе Red Planet?,GK,Typo
+How many continents are there on Earth?,7,Hοw mαny continents are thеre on🌍 Earth,GK,"Unicode, Emoji"
+What is the currency of Japan?,Yen,What is the currеncγ 0f Jαpan,GK,Unicode
+Who painted the Mona Lisa?,Leonardo da Vinci,Who painted thе Mona Lisα 🎨,GK,"Unicode, Emoji"
+What gas do humans need to breathe?,Oxygen,Whаt gαs do humans nееd to breate?,GK,"Unicode, Typo"
+What is the tallest mountain in the world?,Everest,Whαt is thе tαllest m0untain in thе world,GK,"Unicode, Typo"
+Who discovered gravity by an apple falling?,Newton,Whο discoverеd gravitγ 🍏 by an applе falling,GK,"Unicode, Emoji"
+What do bees make?,Honey,What do bees make? 🍯,GK,Emoji
+What organ pumps blood through the body?,Heart,Whαt organ pυmps blood thrοugh the body,GK,Unicode
+Which ocean is the largest?,Pacific,Wh1ch ocеan is the lαrgеst 🌊,GK,"Typo, Unicode, Emoji"
+What is H2O commonly known as?,Water,Whαt is H2O cοmmonly knοwn as,GK,Unicode
+What invention is Thomas Edison famous for?,Light bulb,What inventiοn is Edіsοn famouѕ for💡,GK,"Unicode, Emoji"
+Which animal is the King of the Jungle?,Lion,Whiсh aniмal is the King of thе Junglе 🦁,GK,"Unicode, Emoji"
+In which country is the Taj Mahal located?,India,In which cουntry is the Taj Mαhal located,GK,Unicode
+What do you call baby cats?,Kittens,What do yοu call babγ cats? 🐱,GK,"Unicode, Emoji"
+What natural satellite orbits the Earth?,Moon,What nαtυral satellite орbits thе Earth 🌕,GK,"Unicode, Emoji"
+What gas forms bubbles in soda?,Carbon dioxide,What gas forms bubbles in sodα? 🥤,GK,"Unicode, Emoji"
+What is the fastest land animal?,Cheetah,Whαt is the fastest land animaI 🐆,GK,"Unicode, Emoji"
+"If Annie has 4 apples and eats 2, how many are left?",2,"If Annіe has 4 applеs 🍏aηd eats 2, hοw many are left",Maths,"Unicode, Emoji"
+John bought 3 pens and lost 1. How many does he have now?,2,Jοhn bought 3 pens ✏️ and lost1 Hοw mαnγ dοes he hаve now,Maths,"Unicode, Emoji"
+"If a car has 4 wheels and 1 is removed, how many remain?",3,"If a car hαs 🚗 4 wheels and 1 is rеm0ved, hοw many rεmain?",Maths,"Unicode, Emoji, Typo"
+"Sam has 10 candies, gives 4 away. How many remain?",6,Sam hαs 10 cαndies🍬 gives 4 awaγ Hοw man¥ remain,Maths,"Unicode, Emoji, Typo"
+A week has 7 days. 2 passed. How many left in the week?,5,α week has 7 days. 2 pаssed Hοw many left in week,Maths,Unicode
+"If there are 12 eggs and 3 break, how many intact?",9,"If there are 12 eggs 🥚 αnd 3 brеak, how mαny intact",Maths,"Unicode, Emoji"
+"A spider has 8 legs, loses 2. How many left?",6,Spidеr hαs 8 legs 🕷 loses2 How mаny lefT,Maths,"Unicode, Emoji, Typo"
+"If 6 birds are on a tree and 2 fly away, how many remain?",4,6 birds on trее 🌳 and 2 fly awαy 😮 Hοw many remain,Maths,"Unicode, Emoji"
+"A dozen is 12. If you eat 5, how many left?",7,A dοzen =12 If yοu eat 5 🍩 hοw mаny left,Maths,"Unicode, Emoji"
+"If you have 20 apples and share 5, what is left?",15,If yοu haνe 20 apples🍎 and share5 what’s lеft,Maths,"Unicode, Emoji"
+"5 books on the shelf, 2 taken. How many remain?",3,"5 bοoks📚 on the shеlf, 2 taken. Hοw many rеmain",Maths,"Unicode, Emoji"
+A dog has 2 ears. How many for 5 dogs?,10,A dοg has 🐕 2 еars. Hοw mαny fοr 5 dοgs,Maths,"Unicode, Emoji"
+"If a clock shows 3 hours passed in 12hr cycle, how many left?",9,Clοck shοws 3 hr passed ⏰ in 12hr cycIe. left?,Maths,"Unicode, Emoji, Typo"
+"Sarah saves 8 coins, spends 3. How many left?",5,Sarah savеs 8 coins💰 spеnds 3 Hοw many lеft,Maths,"Unicode, Emoji"
+"If there are 100 sheep and 10 leave, how many remain?",90,If there are 100 sheep 🐑 and 10 leavе How many remain,Maths,"Unicode, Emoji"
+A triangle has 3 sides. What about 5 triangles?,15,TriangIe ∆ hαs 3 sides What abοut 5 trіangles,Maths,Unicode
+Add 7 and 9. What do you get?,16,Add 7 and 9 ➕🌟 What do yοu gеt?,Maths,"Emoji, Unicode"
+Subtract 15 - 6. What is result?,9,Subtrαct 15-6 Wнat’s result,Maths,Unicode
+Multiply 4 by 5. What’s the result?,20,Multiplу 4✖️5 Whаt’ѕ rеѕuIt,Maths,"Unicode, Emoji"
+Divide 20 by 4. What is the quotient?,5,Dіvide 20 ÷ 4 Whαt is thе quotіent,Maths,Unicode
+"Text: ""The sun is shining brightly today."" What word means the source of light?",sun,"Text: ""Thе sun is shiηing brigθtly today."" What word means the sοurce of light?",Comprehension,Unicode
+"Text: ""Mount Everest is the tallest peak."" Which word names the mountain?",Everest,"Text: ""🏔 Mοunt Everest is thе tallest peαk"" Which word names the mοuntain?",Comprehension,"Emoji, Unicode"
+"Text: ""Water is essential for life."" Which word is the liquid?",Water,"Text: ""Watеr is esѕential fοr life"" Which worḋ is thе liqυid",Comprehension,Unicode
+"Text: ""Football is played with a ball."" Which word is the sport?",Football,"""Football is plαyed 💬 wiθh a ball"". Which word is the sрort",Comprehension,"Unicode, Emoji"
+"Text: ""The train arrived late at the station."" Which word shows the vehicle?",train,"""Thе train arrived late 🚆 at the statioη"" Which w0rd shows thе vеhicle",Comprehension,"Emoji, Unicode, Typo"
+"Text: ""The flowers bloomed in the garden."" Which word means plants?",flowers,"""Thе flowers bloomed 🌸 in the gαrdеn."" Which word means plants?",Comprehension,"Emoji, Unicode"
+"Text: ""The book is on the table."" Which word shows furniture?",table,"""The book is on the tablе📚."" Which word showş furniture",Comprehension,"Emoji, Unicode"
+"Text: ""The cat slept on the sofa."" Which word is the animal?",cat,"""The саt slърt on the sofa🐱"" Which word iѕ the animαl?",Comprehension,"Unicode, Emoji"
+"Text: ""Paris is a city in France."" Which word is the city?",Paris,"""Pariѕ iѕ α city in France"". Which w0rḋ is thе city",Comprehension,"Unicode, Typo"
+"Text: ""Milk comes from cows."" Which word is the drink?",Milk,"""Milk cοmes from cows 🐮"". Whιch wοrd is the ḋrink?",Comprehension,"Emoji, Unicode"
